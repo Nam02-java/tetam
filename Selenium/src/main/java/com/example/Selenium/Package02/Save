@@ -1,0 +1,50 @@
+        element_solve = driver.findElements(By.xpath("/html/body/div[1]/div[1]/small"));
+        element_solve2 = driver.findElements(By.xpath("//button[normalize-space()='×']"));
+        if ((element_solve.size() > 0 && element_solve.get(0).isDisplayed()) || element_solve2.size() > 0 && element_solve2.get(0).isDisplayed()) {
+            if (element_solve.size() > 0) {
+                driver.findElement(By.xpath("/html/body/div[1]/div[1]/small")).click();
+            } else {
+                driver.findElement(By.xpath("//button[normalize-space()='×']")).click();
+            }
+        }
+
+          element_solve = driver.findElements(By.xpath("/html/body/div[1]/div[1]/small"));
+                if ((element_solve.size() > 0 && element_solve.get(0).isDisplayed())) {
+                    driver.findElement(By.xpath("/html/body/div[1]/div[1]/small")).click();
+                }
+
+
+
+
+    class testt {
+        public static void main(String[] args) {
+            File folder = new File("E:\\New folder");
+            File[] files = folder.listFiles();
+
+            if (files != null && files.length > 0) {
+                Arrays.sort(files, Comparator.comparingLong(File::lastModified).reversed());
+                File latestFile = files[0];
+                String newFileName = "new_file_name.mp3"; // Tên mới của file
+                File newFile = new File(folder, newFileName);
+                latestFile.renameTo(newFile);
+            }
+        }
+    }
+
+
+class main {
+    public static void main(String[] args) {
+        String nam = "nam";
+        if (nam.contains("a") && nam.contains("m")) {
+            System.out.println("1 in 2 ?");
+        } else {
+            System.out.println("nothing");
+        }
+    }
+}
+
+//${__urlencode(${Text})}
+        //vars.put("FULL_Text", vars.get("TEXT"));
+        ${__urlencode(${Text})}
+
+        https://ttsfree.com/vn#google_vignette

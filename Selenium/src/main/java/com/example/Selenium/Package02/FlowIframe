@@ -1,0 +1,84 @@
+Style attribute: border: 0px; vertical-align: bottom;
+----
+Iframe is displayed: aswift_1
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1140px; height: 280px;
+----
+Iframe is displayed: 
+Style attribute: border: none; visibility: visible; width: 120px; height: 28px;
+----
+Iframe is displayed: aswift_3
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 653px; height: 280px;
+----
+Iframe is displayed: goog_1227132633
+Style attribute: border: 0px; opacity: 1; margin: 0px; padding: 0px; position: absolute; color-scheme: light; display: block;
+----
+Iframe is displayed: google_ads_iframe_/21849154601,22681582280/Ad.Plus-336x280_0
+Style attribute: border: 0px; vertical-align: bottom;
+----
+Iframe is displayed: aswift_5
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1120px; height: 280px;
+----
+Iframe is displayed: aswift_4
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1140px; height: 280px;
+----
+Iframe is displayed: sas_iframe_26322
+Style attribute: 
+----
+Iframe is displayed: sas_iframe_26711
+Style attribute: 
+----
+Iframe is displayed: aswift_10
+Style attribute: width: 728px !important; height: 90px !important; display: block; margin: 0px auto;
+----
+Iframe is displayed: aswift_9
+Style attribute: width: 100vw !important; height: 100vh !important; inset: 0px auto auto 0px !important; position: absolute !important; clear: none !important; display: inline !important; float: none !important; margin: 0px !important; max-height: none !important; max-width: none !important; opacity: 1 !important; overflow: visible !important; padding: 0px !important; vertical-align: baseline !important; visibility: visible !important; z-index: auto !important;
+----
+Total visible iframes: 12
+Logic for the second constructor of host ad 
+Xem xét quảng cáo của host 
+Logic for the second constructor of special ad 
+Xem xét quảng cáo đặc biệt 
+Quảng của host có hiển thị 
+Đã tắt host
+-------------------------------
+Quảng cáo đặc biệt :  org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id="dismiss-button"]/div/span (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.110, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\taikh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57724}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57724/devtoo..., se:cdpVersion: 120.0.6099.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6520fe711616aeb3e7b6ae05e927f172
+ready ?
+Iframe is displayed: google_ads_iframe_/21849154601,22681582280/Ad.Plus-Anchor_0
+Style attribute: border: 0px; vertical-align: bottom;
+----
+Iframe is displayed: aswift_1
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1140px; height: 280px;
+----
+Iframe is displayed: 
+Style attribute: border: none; visibility: visible; width: 120px; height: 28px;
+----
+Iframe is displayed: aswift_3
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 653px; height: 280px;
+----
+Iframe is displayed: goog_1227132633
+Style attribute: border: 0px; opacity: 1; margin: 0px; padding: 0px; position: absolute; color-scheme: light; display: block;
+----
+Iframe is displayed: google_ads_iframe_/21849154601,22681582280/Ad.Plus-336x280_0
+Style attribute: border: 0px; vertical-align: bottom;
+----
+Iframe is displayed: aswift_5
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1120px; height: 280px;
+----
+Iframe is displayed: aswift_4
+Style attribute: left: 0px; position: absolute; top: 0px; border: 0px; width: 1140px; height: 280px;
+----
+Iframe is displayed: sas_iframe_26322
+Style attribute: 
+----
+Iframe is displayed: sas_iframe_26711
+Style attribute: 
+----
+Iframe is displayed: aswift_10
+Style attribute: width: 728px !important; height: 90px !important; display: block; margin: 0px auto;
+----
+Total visible iframes: 11
